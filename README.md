@@ -1,8 +1,7 @@
 # ⚡ QuickSort Simulator
 Un simulatore interattivo per visualizzare il funzionamento dell'algoritmo QuickSort.
 
-## 🚀 Prova la versione online
-Puoi vedere il simulatore in funzione qui:
+Link al simulatore:
 https://bilbooo.github.io/quicksort-simulation/
 
 ## 🛠️ Comandi
