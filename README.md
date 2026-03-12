@@ -1,5 +1,5 @@
 # ⚡ QuickSort Simulator
-Un simulatore interattivo per visualizzare il funzionamento dell'algoritmo QuickSort.
+Un simulatore interattivo per visualizzare il funzionamento dell'algoritmo QuickSort (vibe coddato al 100%).
 
 Link al simulatore:
 https://bilbooo.github.io/quicksort-simulation/
